@@ -34,15 +34,15 @@ Identifying and blocking spam comments on YouTube videos is crucial to avoid dat
 
 Build the Docker image: 
 
-\`\`\`
+```
 docker build -t youtube-comments-spam-detector .
-\`\`\`
+```
 
 Run the Docker container: 
 
-\`\`\`
+```
 docker run -d -p 8000:8000 youtube-comments-spam-detector
-\`\`\`
+```
 
 Open your browser and go to http://localhost:8000/docs to access the Swagger documentation and interact with the API.
 
