@@ -54,6 +54,6 @@ Open your browser and go to http://localhost:8000/docs to access the Swagger doc
 
 ## Example:
 
-![Description](images/my-image.png)
+![](Example Images/ham.png)
 
 
