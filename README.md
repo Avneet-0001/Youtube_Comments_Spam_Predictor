@@ -54,6 +54,6 @@ Open your browser and go to http://localhost:8000/docs to access the Swagger doc
 
 ## Example:
 
-![Description]("Youtube_Spam_Comments_Detector/Example Images/Ham.png")
+![Description](Example Images/Ham.png)
 
 
