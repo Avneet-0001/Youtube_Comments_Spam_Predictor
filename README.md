@@ -57,3 +57,5 @@ Open your browser and go to http://localhost:8000/docs to access the Swagger doc
 ![Model identifies a ham comment.](Ham.png)
 
 ![Model identifies a spam comment.](Spam.png)
+
+<img src="Spam.png" alt="Screenshot of the app" width="400"/>
