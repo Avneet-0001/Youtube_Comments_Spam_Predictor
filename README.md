@@ -1,4 +1,4 @@
-# Youtube_Comments_Spam_Predictor
+# Youtube_Spam_Comments_Detector
 
 This project aims to classify YouTube comments as spam or ham using supervised machine learning models. The application is built using FastAPI and Docker for deployment.
 
@@ -54,6 +54,6 @@ Open your browser and go to http://localhost:8000/docs to access the Swagger doc
 
 ## Example:
 
-![Description]("Example Images/Ham.png")
+![Description]("Youtube_Spam_Comments_Detector/Example Images/Ham.png")
 
 
