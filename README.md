@@ -32,13 +32,19 @@ Identifying and blocking spam comments on YouTube videos is crucial to avoid dat
 - Flask
 - Docker
 
-Build the Docker image: 
+### Install the dependencies:
+
+```
+pip install -r requirements.txt
+```
+
+### Build the Docker image: 
 
 ```
 docker build -t youtube-comments-spam-detector .
 ```
 
-Run the Docker container: 
+### Run the Docker container: 
 
 ```
 docker run -d -p 8000:8000 youtube-comments-spam-detector
@@ -46,7 +52,7 @@ docker run -d -p 8000:8000 youtube-comments-spam-detector
 
 Open your browser and go to http://localhost:8000/docs to access the Swagger documentation and interact with the API.
 
-Example:
+## Example:
 
 ![Description](images/my-image.png)
 
