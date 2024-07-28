@@ -46,3 +46,8 @@ docker run -d -p 8000:8000 youtube-comments-spam-detector
 
 Open your browser and go to http://localhost:8000/docs to access the Swagger documentation and interact with the API.
 
+Example:
+
+![Description](images/my-image.png)
+
+
