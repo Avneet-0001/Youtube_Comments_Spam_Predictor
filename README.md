@@ -54,4 +54,6 @@ Open your browser and go to http://localhost:8000/docs to access the Swagger doc
 
 ## Example:
 
-![Description](Ham.png)
+![Model identifies a ham comment.](Ham.png)
+
+![Model identifies a spam comment.](Spam.png)
